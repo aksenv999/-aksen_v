@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Аксен(дядя)</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .content {
+            text-align: left;
+            font-size: 1rem;
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Аксен(дядя)@aksen_v</h1>
+        <p>OKXXXXXXXXXXXXXXXXXXXXXXXXXXXXKXNNNXOxoldOXNNXKkxkkOK0kdoodxxOKNWWNkdxxxO0OOkkKNNX0ollcokOxdc:looooo
+<br>kkkOKXXXXXXXXXKKXXXXXXXXXXXXXXXXXNNNNNkcclokKXNXXKKKNNXKOxdodxxk0XOoxxxddxxOkdx0OOkolllodxxocoxdlccc
+<br>KK0kO0KXXXXXXXXXXXXXXXXXXXNNXXXXXNNXNXd:clcloxOXNNNNNNNNN0xddodxxkkkXKddkxddodkKOololcccldxdlxOxdocc
+<br>KKKKKKXXXXXXXXXXXXXXXXXXXXNNXXXXXXNNNNKxoodk0xodkKNNNNNNNKxodxdddxxxOxld0kdxkKNXOolcclolllcccdkdxkxx
+<br>KKKKXXXXXXXXXXXXXXXXXXXXXNNNNK0KNNNNNNNNXKKXNX0kddx0NNNNNNOddxxxxdddxdodxONWWWWKkdoldxdllolllcccldkk
+<br>KKKKXXXXXXXXXXXXXXXXXXXNNNNNXkclx0XNNNNXKKK0kkkxxdoxO00KXNNK0Ododxxxdxddx0NWWWXOx00k0OxkOOdlokOdodOk
+<br>K000KKXXXXXXXXXXXXXXXXXNNNNNXKkolldOKKOxddoollccccccccccldOKNN0doxxxxxxxkkO0KNKkdOOxxddx0OocdOOkdlOK
+<br>KKKK00KKKXXXXXXXXXXXXXXNNNNNNNNX0kdodolccccccc:::::::;;;::cox0XX0KOdx00kxdxdodollolloollllloooolodOX
+<br>KKXKKKKKKKKKXXXXXXNXXXNNNNNNNNNNNKkocc:::::cccccclllccc:cclloxkkOXNKKXOkxddooolccoxdccd0OdolclxOKKOk
+<br>kKKKXXXXKKKKKKXXXXXNNNNNXNXO0XNXOdllooddxxkkkkkxxxddxxxxkkkOOOOkxOKNNNXKOkxoooddodxxkxkkkdcokkO00kdo
+<br>0KKKKKXXXXXXXXXXXXXXXNNNNNNX0OOdodk00KKKKK000OOkkkkkkkkkOOOOOOOOOOOKNWNKkdolllodxkkOKXK0kll0WWWWKOOo
+<br>0KKKKKKKKXXXXXXXXXXXXXNNNNNNNKxxO0KKKKKKK000OOOkkkkkxxxxxxxxxxxxxkkO0KK0OO0kdloxkxxkkOkdocxXWWWKkkxo
+<br>KKKKKKXXKKKKKKXXXXXXXXXNNNNNKOO00OO00KKKKK00OOkkkxxxxkkOOOOOkkxddddxkxkOKNWWNKdldxxxxxocloOWNXKdldkO
+<br>KKXXXXXXXXXXXXXXXXXXXXNNNXNKOO0OO00KKKKKK00OOkkkkkkkkkkOkkkkxxxxxddddxO00XWWWWXOkooolccclx0XXOxO0XWW
+<br>KKKXXXXXXXXXXXXXK0OO0KNNNNX0O0O00000OOOOkkxxxxxxxxxxxddoollooooddxxdddxOXXNWWWWWX0kxkOOkddxkkOKWWWWW
+<br>KKXXXXXXXXXXXNXXXKOxloOXNN0OOOOOOOkkxxddooooooooolllllcccccccccllooddddx0NNWWWWXXNWNNNNN0xdddxkKNWWW
+<br>XXXXXXXXXXXNNXXXX0kdl:clxOOOOOOOkxddoolc::::ccccccccc::;;,''''',;:clodxxONWWWWWKxxKNWNNNXOxxdddxk0XW
+<br>XXXXXXXXXXXNNNXXX0kkkdolldkOOOkxolc:;,'..'',;:::::::::;;,,'......'',;cdxkXWWWWWN0kddOXNNNXOdoddddddk
+<br>XXXXXXXXXXXXNXXKOxkOOO0OxxkOkdl:;,'.....'',,;::ccc::::::::;;,,,;;;;;;;coxKWWWWWWNNKocdkKNNN0xdddxoll
+<br>KXXXXXXXXXNXNXXKkxOkxkk00kkxl:;;;;;,,,,',,,,;:lddollcc:::;,''',,;::::cccd0NWWNWNNNNOldxdx0NNXX0xO0kd
+<br>KXXXXXXXXXNXXXXKkOOxdxk0KOxo:;:cc::;,'.....',cdOOxddlc:;,'....';;;::ccclxxxkKNWNNNNNKKXK00NNNWNXKKko
+<br>XXXXXXXXXXXNXXKOkOxdkOOK0Oxoc:cc:;;'.......';ok00Okxoc:;'.......',,;:ccox0Ok0NWNWNNNWNNNNXXNNNKKNN0d
+<br>XXXXXXXXXXXXXKOxOkd0XKkxdxkdcc:;,'........':okOKK0Okdolc;'.........',:cld0NXXNNWWWNNNNNNNNNXNNKkx0XX
+<br>XXXXXXXXXXXXX0xk0Ok0KOdddxOxolc;,'......';ldkOKXXXKKOxoll:;,'''',,;::ccloOXNXXNNNWWNNNNNNNNNNNNXOook
+<br>XXXXXXXXXXXXKkdO0OkxdooodxOkxxxdol::;;:codxk0KXK0OOkkxxdolcc::;;;::ccllodkO0KXNNWNNNNKkkKXNNNNNNNKxd
+<br>XXXXXXXXXXXX0xddxxxxdxdodk0OOOkkkxddddxxkkOOOkdollcclloooolccccccccccclldxddO00XNWNNNNOolokKNNNNNNKx
+<br>XXXXXXXXXXXXK000kxxxxkxlcxOkkkxxxxxkkkkkxkkdc:::::::c:,;cllcccclllcccllloxdoONXXNNNNNNNXk:;ldkKNNNXO
+<br>XXXXXXXXXXXXXXXNNXKKKKklokkxxxddxxkkxxxdddl;...,::::;...,ccccccclllllllloxxlkNWNWNNNNNNNXd;lxllONNNN
+<br>XXXXXXXXXXXKXXNNNNNNNNKddkkxddddxxxxxdooddl;'.',;;;;;,',;::cc:ccllloollodxdo0NNNNNNNNNNNNKll00xkXNNN
+<br>XXXXXXXXXXXXXNNNNNNNNNNOdxxddodxxxxddoldxkxc,''.'''....';:ccccccclloollodxdxXNNNNNNNNNNNNN0dkKKO0XNN
+<br>XXXXXXXXXXKXXNNNNNNNNNN0ddddoodxxxxdoodxxxdc;'..........,;::ccccclllllooddox0XNWNNXXNNNNNNNK0KXK0KXN
+<br>KKKKKXXXXKXXXNNNNNNNNNWXxloooodxxxddoodoolc:;'''........'',;;;::ccclllooolllcoxOKNNNXXXXXNNNNXXXK0KX
+<br>KKKKKKKKKKXNXNNNNNNNNNNNkllllodxxddoollcc:::;,,,,,,,,,,;;,,,,,,;:ccccclllllcldoccoxOXNNXXXXXXXXXXXXX
+<br>KKKKKKKKKKKKKKXXXXXNXNNXklcccldxxdolc:;;,,,,''........,::;,,''',;::c:ccccloox0KOxl:cONNNNNXXXXXXXXXX
+<br>OO00KKXXXXXXXKKKKXXXXXNXklcccclddoc:,'..',;;,''.......:dxc''...,;;;:::cclodxkKXNXOxdkXNNNNNNNXXXKKKX
+<br>OOOOO000KKKXXKKKXXKKKKKKklc:c:cloc;,''',::::;,''.'.'''cOKkc,'..',,;;:::cldddk0XNXKkkxkKNNNNN0kOKXXXX
+<br>KKKKKKKK00000000KKKKKKKKOo::cc::c:;;;;:::;;,'........,:xXKx:;,',,,,;:::cxkddxOKXKOOkkxx0XNNNKxcldk0X
+<br>KXXXXXXXXXXKK000O0000KKKKx::cc:::::cllccc::;'.......';;o0X0o,'',,,;::::ckOdoox0X0OKOkkdx0XNNNXKkocco
+<br>KKKXXXXXXXXXXXXXXKKK00KKKOl:;;:::::clllllllc;'.....',;;:xXX0c.''',;,,;:dO0OxddOKK0KOkkkk0XXNNXNNXxc:
+<br>KKKKKKXXXNXXXXXXXXXNNNXXXKkc,,;:;;;:looooolc:,'..''''',,cONXk;.''',,,cxKNXKK0OO000kxxkkOKXXXXXNNNKo;
+<br>XXXXklldxkOO0XXNNNNNNNNNNNXk:,,,'',:cclllcc:;,.','..'''.'oXNXo'..''':kXNNNXXXKK0KKOOkkkk0KKXXXXXNN0c
+<br>XXX0c,;;;;;:cldxkOKXNNNNNNXXk:,'.',;;:c:::;;;'..'..'''...,kNNKc..''cOXNNNXXXXXXXXXKK0OOOOOKXXXXXXWNk
+<br>NXXxc::::;;::;;;;:cloxxO0KXXOl;'..',,,,,';,'''............:kOkl'.,:oxO00KKKXXXXXXXXXK0000KKXXXXKKXWX
+<br>NX0ollllccc:::::::::::;:coddl:lc'........''................cxdc;';cl;';:ccldxkO0KXXXXKKKKKXKKKKKKKKX
+<br>NKkdooddoolcc::cllll::clllc,..ldc,'............. ..........':c:;;;::'....,,;;:clodkO0KXXXXKKKKKKKK00
+<br>XOxxxxkkkxoc;,,codxdccol:,.. ,dkdo:,............ ...........',;;;;::'  ......'',,;;:codkOKKKKXXKKKXX
+<br>0kkkkOO0Odc;,,',oOOxol:'..  .ckxxdol:;,......... .......''',,;;;;;::,.     .........',,;:ldOKXXXXXXX
+<br>OOOO000KOdlccc::lddlc:,.    .lxxxddolc:;,'..........'',,,,,;;;;;;;:;,...       ........'',,:ldxxk0KX
+<br>kkkkkkxdolcccc:cloc::;,.    .'codddollc:;;,,,,,',,,,,,,,;;;;;;;;;;,.. ....    ............'',;::cclo
+<br>olllccccccccccllllc:;;'.     ...,:clllc:;;;,,,,,,,,,,,,,,,;;;,,'...    ......     ..........''',;:::
+<br>lcccccccc::cllcclc:;;,..       . ...''''''''''''''''''''.......       ... ....      ..........',,,;;
+<br>:::cccc:::cccccccc::;;.    .....             .......                 .........      ...........'',;;
+<br>:::ccc:ccccccccccc:;;,. ...........                                  ..........    .............'',,
+<br>::ccccccccccccccc:;,,.. ..............                              .............  ...........''',,,
+<br>:cc:::ccccccccccc:;,'.. ..................                         ........................''',,,;;;
+<br>c:;;;:::cccccc:;''...'.....................                       .........................'''',;;;:
+<br>,;;::::cc::;,........'..........................          ...   .....................''.....'.'',;;;
+<br>,;;:::;,'...........';'..........................     ................................''....''';::::</p>
+    </div>
+</body>
+</html>
